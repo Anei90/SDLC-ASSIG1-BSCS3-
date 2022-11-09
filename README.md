@@ -2,14 +2,18 @@
 PEDESTRAINS PROTECTION AND TRAFFIC MANAGEMENT SAFETY SYSTEM
 
 PROBLEM - ROAD ACCIDENTS
+
 PROBLEM STATEMENT
+
 At least 10 people die every day due road accident many of these being pedestrians
 that are as result of invisible road signs which is one of the contributors to these
 staggering statistics. Due to the large number of human lives lost as a result of road of
 accidents road safety has become a major great concern to almost every person today
 in uganda.
+
 SOLUTION 
 PEDESTRAINS PROTECTION AND TRAFFIC MANAGEMENT SAFETY SYSTEM
+
 HOW IT WORKS
 install intelligent robot cops along Kampala major roads to protect and enable pedestrians to cross the city roads safely. These intelligent robots are equipped with cameras that can record everything happening along the roads. Even at night, the robots operate and collect data, and they are enabled by infra-red radiation. Furthermore, the robots are designed to correlate the functions of human traffic officers and traffic lights.
 Help in controlling traffic. These robots will be pole like structures which will open and close like road blocks to prevent cars from passing when lights are off or on. Hence allowing people to pass.
