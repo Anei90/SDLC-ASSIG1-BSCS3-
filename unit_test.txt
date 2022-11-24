@@ -1,0 +1,7 @@
+
+
+
+As Developers write unit tests for their code to make sure that the code works correctly. 
+This helps to detect and protect against bugs in the future. 
+Sometimes developers write unit tests first, then write the code.
+and to  verify the behaviors of an individual unit of source code.
